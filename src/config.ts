@@ -30,7 +30,7 @@ export const siteConfig = {
       name: "Web Platform Development - Kota Wisata Ecovia",
       description:
         "Developed end-to-end web architecture for a property platform using Next.js, Tailwind CSS, and Strapi CMS. Created comprehensive user manuals to guide business stakeholders on content management, streamlining the update process.",
-      link: "#",
+      link: "https://ecovia.kota-wisata.com/",
       skills: ["Next.js", "Tailwind CSS", "Strapi CMS"],
     },
   ],
